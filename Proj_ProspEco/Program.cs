@@ -5,29 +5,29 @@ using Proj_ProspEco.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Adicionar serviÁos ao container
+// Adicionar servi√ßos ao container
 builder.Services.AddControllersWithViews();
 
 // Registrar o DbContext com a connection string
 var connectionString = builder.Configuration.GetConnectionString("OracleFIAP");
 builder.Services.AddDbContext<ProspEcoDbContext>(options =>
 {
-    // Verifica se a string de conex„o n„o est· nula
+    // Verifica se a string de conex√£o n√£o est√° nula
     if (string.IsNullOrEmpty(connectionString))
     {
-        throw new InvalidOperationException("A string de conex„o 'OracleFIAP' n„o est· configurada.");
+        throw new InvalidOperationException("A string de conex√£o 'OracleFIAP' n√£o est√° configurada.");
     }
 
     options.UseOracle(connectionString);
 });
 
-// Registrar o serviÁo de Swagger (se necess·rio para documentar a API)
+// Registrar o servi√ßo de Swagger (se necess√°rio para documentar a API)
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// ConfiguraÁ„o do pipeline de requisiÁıes HTTP
+// Configura√ß√£o do pipeline de requisi√ß√µes HTTP
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
@@ -38,11 +38,11 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
-// ConfiguraÁ„o de roteamento
+// Configura√ß√£o de roteamento
 app.UseRouting();
 app.UseAuthorization();
 
-// ConfiguraÁ„o de Swagger (apenas em desenvolvimento)
+// Configura√ß√£o de Swagger (apenas em desenvolvimento)
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -52,7 +52,7 @@ if (app.Environment.IsDevelopment())
     });
 }
 
-// ConfiguraÁ„o da rota padr„o
+// Configura√ß√£o da rota padr√£o
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
