@@ -3,7 +3,7 @@ using Proj_ProspEco.Persistencia.Repositories;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Proj_ProspEco.Services
+namespace Proj_ProspEco.Persistencia.Services
 {
     public interface IRecomendacaoService
     {

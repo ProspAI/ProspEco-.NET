@@ -2,25 +2,24 @@
 using Proj_ProspEco.Persistencia.Repositories;
 using System.Threading.Tasks;
 
-namespace Proj_ProspEco.Services
+namespace Proj_ProspEco.Persistencia.Services;
+
+public interface IBandeiraTarifariaService
 {
-    public interface IBandeiraTarifariaService
+    Task<BandeiraTarifaria> GetBandeiraVigenteAsync();
+}
+
+public class BandeiraTarifariaService : IBandeiraTarifariaService
+{
+    private readonly IBandeiraTarifariaRepository _repository;
+
+    public BandeiraTarifariaService(IBandeiraTarifariaRepository repository)
     {
-        Task<BandeiraTarifaria> GetBandeiraVigenteAsync();
+        _repository = repository;
     }
 
-    public class BandeiraTarifariaService : IBandeiraTarifariaService
+    public async Task<BandeiraTarifaria> GetBandeiraVigenteAsync()
     {
-        private readonly IBandeiraTarifariaRepository _repository;
-
-        public BandeiraTarifariaService(IBandeiraTarifariaRepository repository)
-        {
-            _repository = repository;
-        }
-
-        public async Task<BandeiraTarifaria> GetBandeiraVigenteAsync()
-        {
-            return await _repository.GetBandeiraVigenteAsync();
-        }
+        return await _repository.GetBandeiraVigenteAsync();
     }
 }

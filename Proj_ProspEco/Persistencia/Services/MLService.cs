@@ -1,6 +1,6 @@
 ﻿using Proj_ProspEco.Persistencia.ML;
 
-namespace Proj_ProspEco.Services
+namespace Proj_ProspEco.Persistencia.Services
 {
     public class MLService
     {

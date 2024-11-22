@@ -1,10 +1,12 @@
 ﻿using Proj_ProspEco.Models;
 using Proj_ProspEco.Persistencia.Repositories;
+using Proj_ProspEco.Persistencia.Services;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Proj_ProspEco.Services
+namespace Proj_ProspEco.Persistencia.Services
 {
+
     public interface IAparelhoService : IService<Aparelho>
     {
         Task<IEnumerable<Aparelho>> GetByUsuarioIdAsync(int usuarioId);

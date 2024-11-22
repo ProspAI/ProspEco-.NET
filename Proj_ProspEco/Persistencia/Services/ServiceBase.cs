@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Proj_ProspEco.Services
+namespace Proj_ProspEco.Persistencia.Services
 {
     public abstract class ServiceBase<T> : IService<T> where T : class
     {

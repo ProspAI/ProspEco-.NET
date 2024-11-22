@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Proj_ProspEco.Services
+namespace Proj_ProspEco.Persistencia.Services
 {
     public class UsuarioService : ServiceBase<Usuario>
     {

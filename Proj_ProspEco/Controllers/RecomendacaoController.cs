@@ -1,108 +1,132 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Proj_ProspEco.Models;
-using Proj_ProspEco.Services;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Proj_ProspEco.Persistencia.Services;
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace Proj_ProspEco.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class RecomendacaoController : ControllerBase
+    public class RecomendacoesController : ControllerBase
     {
-        private readonly IRecomendacaoService _recomendacaoService;
+        private readonly IService<Recomendacao> _recomendacaoService;
 
-        public RecomendacaoController(IRecomendacaoService recomendacaoService)
+        public RecomendacoesController(IService<Recomendacao> recomendacaoService)
         {
             _recomendacaoService = recomendacaoService;
         }
 
         /// <summary>
-        /// Obtém todas as recomendações.
+        /// Retorna todas as recomendações.
         /// </summary>
+        /// <returns>Lista de recomendações cadastradas no sistema.</returns>
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Recomendacao>>> GetAll()
+        [SwaggerOperation(Summary = "Lista todas as recomendações", Description = "Retorna todas as recomendações cadastradas.")]
+        [SwaggerResponse(200, "Lista de recomendações retornada com sucesso.")]
+        [SwaggerResponse(500, "Erro interno ao tentar recuperar as recomendações.")]
+        public async Task<IActionResult> GetAll()
         {
-            var recomendacoes = await _recomendacaoService.GetAllAsync();
-            return Ok(recomendacoes);
+            try
+            {
+                var recomendacoes = await _recomendacaoService.GetAllAsync();
+                return Ok(recomendacoes);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Erro interno: {ex.Message}");
+            }
         }
 
         /// <summary>
-        /// Obtém uma recomendação específica pelo ID.
+        /// Retorna uma recomendação específica pelo ID.
         /// </summary>
+        /// <param name="id">ID da recomendação.</param>
+        /// <returns>Recomendação correspondente ao ID.</returns>
         [HttpGet("{id}")]
-        public async Task<ActionResult<Recomendacao>> GetById(int id)
+        [SwaggerOperation(Summary = "Busca recomendação por ID", Description = "Retorna os detalhes de uma recomendação específica.")]
+        [SwaggerResponse(200, "Recomendação encontrada.")]
+        [SwaggerResponse(404, "Recomendação não encontrada.")]
+        public async Task<IActionResult> GetById(int id)
         {
-            var recomendacao = await _recomendacaoService.GetByIdAsync(id);
-
-            if (recomendacao == null)
-                return NotFound(new { Message = "Recomendação não encontrada." });
-
-            return Ok(recomendacao);
-        }
-
-        /// <summary>
-        /// Obtém todas as recomendações de um usuário específico.
-        /// </summary>
-        [HttpGet("usuario/{usuarioId}")]
-        public async Task<ActionResult<IEnumerable<Recomendacao>>> GetByUsuarioId(int usuarioId)
-        {
-            var recomendacoes = await _recomendacaoService.GetAllAsync();
-            var recomendacoesUsuario = recomendacoes.Where(r => r.UsuarioId == usuarioId).ToList();
-
-            if (!recomendacoesUsuario.Any())
-                return NotFound(new { Message = "Nenhuma recomendação encontrada para o usuário informado." });
-
-            return Ok(recomendacoesUsuario);
+            try
+            {
+                var recomendacao = await _recomendacaoService.GetByIdAsync(id);
+                if (recomendacao == null) return NotFound("Recomendação não encontrada.");
+                return Ok(recomendacao);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Erro interno: {ex.Message}");
+            }
         }
 
         /// <summary>
         /// Cria uma nova recomendação.
         /// </summary>
+        /// <param name="recomendacao">Dados da recomendação a ser criada.</param>
+        /// <returns>Recomendação criada com sucesso.</returns>
         [HttpPost]
-        public async Task<ActionResult<Recomendacao>> Create(Recomendacao recomendacao)
+        [SwaggerOperation(Summary = "Cria uma nova recomendação", Description = "Adiciona uma recomendação ao sistema.")]
+        [SwaggerResponse(201, "Recomendação criada com sucesso.")]
+        [SwaggerResponse(400, "Erro nos dados enviados.")]
+        public async Task<IActionResult> Create([FromBody] Recomendacao recomendacao)
         {
-            if (recomendacao == null)
-                return BadRequest(new { Message = "Dados inválidos para criar a recomendação." });
-
-            await _recomendacaoService.AddAsync(recomendacao);
-
-            return CreatedAtAction(nameof(GetById), new { id = recomendacao.Id_recom }, recomendacao);
+            try
+            {
+                if (!ModelState.IsValid) return BadRequest("Dados inválidos.");
+                await _recomendacaoService.AddAsync(recomendacao);
+                return CreatedAtAction(nameof(GetById), new { id = recomendacao.Id_recom }, recomendacao);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Erro interno: {ex.Message}");
+            }
         }
 
         /// <summary>
         /// Atualiza uma recomendação existente.
         /// </summary>
-        [HttpPut("{id}")]
-        public async Task<ActionResult> Update(int id, Recomendacao recomendacao)
+        /// <param name="recomendacao">Dados da recomendação a ser atualizada.</param>
+        /// <returns>Resultado da operação.</returns>
+        [HttpPut]
+        [SwaggerOperation(Summary = "Atualiza uma recomendação", Description = "Atualiza os dados de uma recomendação existente.")]
+        [SwaggerResponse(204, "Recomendação atualizada com sucesso.")]
+        [SwaggerResponse(400, "Erro nos dados enviados.")]
+        [SwaggerResponse(404, "Recomendação não encontrada.")]
+        public async Task<IActionResult> Update([FromBody] Recomendacao recomendacao)
         {
-            if (id != recomendacao.Id_recom)
-                return BadRequest(new { Message = "O ID informado não corresponde ao ID da recomendação." });
-
-            var existe = await _recomendacaoService.GetByIdAsync(id);
-            if (existe == null)
-                return NotFound(new { Message = "Recomendação não encontrada." });
-
-            await _recomendacaoService.UpdateAsync(recomendacao);
-
-            return NoContent();
+            try
+            {
+                if (!ModelState.IsValid) return BadRequest("Dados inválidos.");
+                await _recomendacaoService.UpdateAsync(recomendacao);
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Erro interno: {ex.Message}");
+            }
         }
 
         /// <summary>
-        /// Deleta uma recomendação existente.
+        /// Exclui uma recomendação existente.
         /// </summary>
+        /// <param name="id">ID da recomendação a ser excluída.</param>
+        /// <returns>Resultado da operação.</returns>
         [HttpDelete("{id}")]
-        public async Task<ActionResult> Delete(int id)
+        [SwaggerOperation(Summary = "Exclui uma recomendação", Description = "Remove uma recomendação existente pelo ID.")]
+        [SwaggerResponse(204, "Recomendação excluída com sucesso.")]
+        [SwaggerResponse(404, "Recomendação não encontrada.")]
+        public async Task<IActionResult> Delete(int id)
         {
-            var existe = await _recomendacaoService.GetByIdAsync(id);
-
-            if (existe == null)
-                return NotFound(new { Message = "Recomendação não encontrada." });
-
-            await _recomendacaoService.DeleteAsync(id);
-
-            return NoContent();
+            try
+            {
+                await _recomendacaoService.DeleteAsync(id);
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Erro interno: {ex.Message}");
+            }
         }
     }
 }
