@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proj_ProspEco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02fddaed3108514cce77b4f94e09e0110aa52d47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2af5ac0493a84b79e577322a852bee041414650")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proj_ProspEco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proj_ProspEco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -21,7 +21,7 @@ builder.Services.AddDbContext<ProspEcoDbContext>(options =>
     options.UseOracle(connectionString);
 });
 
-// Registrar o serviço de Swagger (se necessário para documentar a API)
+// Registrar o serviço de Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -42,15 +42,19 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthorization();
 
-// Configuração de Swagger (apenas em desenvolvimento)
-if (app.Environment.IsDevelopment())
+// Configuração de Swagger para todas as configurações (produção e desenvolvimento)
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI(c =>
-    {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Proj_ProspEco API V1");
-    });
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Proj_ProspEco API V1");
+});
+
+// Redirecionar a rota raiz para o Swagger
+app.MapGet("/", context =>
+{
+    context.Response.Redirect("/swagger");
+    return Task.CompletedTask;
+});
 
 // Configuração da rota padrão
 app.MapControllerRoute(
