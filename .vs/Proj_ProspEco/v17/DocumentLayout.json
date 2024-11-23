@@ -1,197 +1,230 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\",
+  "WorkspaceRootPath": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\proj_prospeco.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\proj_prospeco.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\prospeco.tests\\mlservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\prospeco.tests\\mlservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\ml\\mlmodeltrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\ml\\mlmodeltrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\services\\mlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\mlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\repositories\\bandeiratarifariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\bandeiratarifariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\services\\aparelhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\aparelhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\services\\metaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\metaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\data\\dados_modelo.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\data\\dados_modelo.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\MeuProjetoML.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MeuProjetoML.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\MeuProjetoML.Tests\\Data\\DadosUsuarioPrevisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MeuProjetoML.Tests\\Data\\DadosUsuarioPrevisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\MeuProjetoML.Tests\\Data\\DadosUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MeuProjetoML.Tests\\Data\\DadosUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\dtos\\aparelhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\dtos\\aparelhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\data\\prospecodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\data\\prospecodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\services\\bandeiratarifariaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\bandeiratarifariaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\bandeiratarifaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\bandeiratarifaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\services\\consquistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\consquistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\services\\recomendacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\recomendacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\registroconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\registroconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\meta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\meta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\aparelho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\aparelho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\conquista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\conquista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\recomendacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\recomendacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\services\\registroconsumoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\registroconsumoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\services\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\repositories\\conquistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\repositories\\conquistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\conquistarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\repositories\\aparelhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\aparelhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\controllers\\aparelhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\controllers\\aparelhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\repositories\\metarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\metarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\prospeco.tests\\mlservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\prospeco.tests\\mlservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\repositories\\notificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\notificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\proj_prospeco.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\proj_prospeco.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\repositories\\registroconsumorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\registroconsumorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\repositories\\recomendacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\recomendacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\persistencia\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\services\\registroconsumoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\registroconsumoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\services\\recomendacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\recomendacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\services\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\services\\mlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\mlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\services\\metaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\metaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\services\\consquistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\consquistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\services\\bandeiratarifariaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\bandeiratarifariaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\services\\aparelhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\services\\aparelhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\controllers\\registroconsumocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\controllers\\registroconsumocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\controllers\\recomendacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\controllers\\recomendacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\controllers\\notificacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\controllers\\notificacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\controllers\\mlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\controllers\\mlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\controllers\\metacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\controllers\\metacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\controllers\\conquistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\controllers\\conquistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\controllers\\bandeiratarifariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\controllers\\bandeiratarifariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\dtos\\registroconsumodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\repositories\\registroconsumorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\registroconsumorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\repositories\\recomendacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\recomendacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\repositories\\notificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\notificacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\repositories\\metarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\metarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\aparelho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\aparelho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\repositories\\aparelhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\repositories\\aparelhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\recomendacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\recomendacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\persistencia\\ml\\mlmodeltrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\persistencia\\ml\\mlmodeltrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\data\\dados_modelo.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\data\\dados_modelo.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\MeuProjetoML.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\MeuProjetoML.Tests\\Data\\DadosUsuarioPrevisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\MeuProjetoML.Tests\\Data\\DadosUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\dtos\\aparelhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\dtos\\aparelhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\data\\prospecodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\data\\prospecodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\bandeiratarifaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\bandeiratarifaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\registroconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\registroconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\meta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\meta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\conquista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\conquista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\dtos\\registroconsumodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\dtos\\registroconsumodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\dtos\\bandeiratarifariadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\dtos\\bandeiratarifariadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\dtos\\bandeiratarifariadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\dtos\\conquistadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\dtos\\conquistadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\dtos\\conquistadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\dtos\\notificacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\dtos\\notificacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\dtos\\notificacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\dtos\\metadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\dtos\\metadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\dtos\\metadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\proj_prospeco\\proj_prospeco\\models\\dtos\\recomendacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|c:\\users\\b2xga\\source\\repos\\prospeco-.net\\proj_prospeco\\models\\dtos\\recomendacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FC993C-8834-44EB-B0B8-22D8FE0014E5}|Proj_ProspEco\\Proj_ProspEco.csproj|solutionrelative:proj_prospeco\\models\\dtos\\recomendacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -202,204 +235,570 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:09:26.452Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MLService.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\MLService.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\MLService.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\MLService.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\MLService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Title": "AparelhoController.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\AparelhoController.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Controllers\\AparelhoController.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\AparelhoController.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Controllers\\AparelhoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T20:48:37.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MLModelTrainer.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\ML\\MLModelTrainer.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\ML\\MLModelTrainer.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\ML\\MLModelTrainer.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\ML\\MLModelTrainer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T20:47:38.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MetaService.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\MetaService.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\MetaService.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\MetaService.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\MetaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:02:10.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AparelhoService.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\AparelhoService.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\AparelhoService.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\AparelhoService.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\AparelhoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:00:53.606Z",
+              "WhenOpened": "2024-11-22T21:08:39.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BandeiraTarifariaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\BandeiraTarifariaRepository.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\BandeiraTarifariaRepository.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\BandeiraTarifariaRepository.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\BandeiraTarifariaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:35:24.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MLServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\ProspEco.Tests\\MLServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\ProspEco.Tests\\MLServiceTest.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\ProspEco.Tests\\MLServiceTest.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\ProspEco.Tests\\MLServiceTest.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\ProspEco.Tests\\MLServiceTest.cs",
               "RelativeToolTip": "Proj_ProspEco\\ProspEco.Tests\\MLServiceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T20:50:13.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:03:01.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Proj_ProspEco.csproj",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Proj_ProspEco.csproj",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\Source\\Repos\\ProspEco-.NET\\Proj_ProspEco\\Proj_ProspEco.csproj",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Proj_ProspEco.csproj",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Proj_ProspEco.csproj",
+              "ToolTip": "C:\\Users\\B2XGa\\Source\\Repos\\ProspEco-.NET\\Proj_ProspEco\\Proj_ProspEco.csproj",
               "RelativeToolTip": "Proj_ProspEco\\Proj_ProspEco.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-21T18:55:19.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "dados_modelo.csv",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Data\\dados_modelo.csv",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Data\\dados_modelo.csv",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Data\\dados_modelo.csv",
-              "RelativeToolTip": "Proj_ProspEco\\Data\\dados_modelo.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-11-21T21:00:11.541Z",
+              "DocumentIndex": 8,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:12:06.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\Usuario.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Program.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Program.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Program.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T18:51:45.059Z",
+              "WhenOpened": "2024-11-20T20:38:03.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:02:43.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConquistaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\ConquistaRepository.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\ConquistaRepository.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\ConquistaRepository.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\ConquistaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:33:40.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "FuncionarioModel.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\FuncionarioModel.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\FuncionarioModel.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\FuncionarioModel.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Models\\FuncionarioModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\ServiceBase.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\ServiceBase.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\ServiceBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T20:48:10.004Z",
+              "WhenOpened": "2024-11-20T20:08:31.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "RegistroConsumoService.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\RegistroConsumoService.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\RegistroConsumoService.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\RegistroConsumoService.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\RegistroConsumoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:03:47.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecomendacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\RecomendacaoService.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\RecomendacaoService.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\RecomendacaoService.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\RecomendacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:04:13.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MLService.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\MLService.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\MLService.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\MLService.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\MLService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:48:37.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotificacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\NotificacaoService.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\NotificacaoService.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\NotificacaoService.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\NotificacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:02:42.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MetaService.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\MetaService.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\MetaService.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\MetaService.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\MetaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:02:10.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\IService.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:05:30.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConsquistaService.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\ConsquistaService.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\ConsquistaService.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\ConsquistaService.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\ConsquistaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:00:21.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BandeiraTarifariaService.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\BandeiraTarifariaService.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\BandeiraTarifariaService.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\BandeiraTarifariaService.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\BandeiraTarifariaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:03:16.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AparelhoService.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\AparelhoService.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\AparelhoService.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Services\\AparelhoService.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\AparelhoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:00:53.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistroConsumoController.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\RegistroConsumoController.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Controllers\\RegistroConsumoController.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\RegistroConsumoController.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Controllers\\RegistroConsumoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:42:28.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NotificacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\NotificacaoController.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Controllers\\NotificacaoController.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\NotificacaoController.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Controllers\\NotificacaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:01:04.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MLController.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\MLController.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Controllers\\MLController.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\MLController.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Controllers\\MLController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:43:47.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MetaController.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\MetaController.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Controllers\\MetaController.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\MetaController.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Controllers\\MetaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:01:15.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConquistaController.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\ConquistaController.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Controllers\\ConquistaController.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\ConquistaController.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Controllers\\ConquistaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:41:26.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RecomendacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\RecomendacaoController.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Controllers\\RecomendacaoController.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\RecomendacaoController.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Controllers\\RecomendacaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:50:27.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BandeiraTarifariaController.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\BandeiraTarifariaController.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Controllers\\BandeiraTarifariaController.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Controllers\\BandeiraTarifariaController.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Controllers\\BandeiraTarifariaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:41:08.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:42:47.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:11:15.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegistroConsumoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\RegistroConsumoRepository.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\RegistroConsumoRepository.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\RegistroConsumoRepository.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\RegistroConsumoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:35:40.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RecomendacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\RecomendacaoRepository.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\RecomendacaoRepository.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\RecomendacaoRepository.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\RecomendacaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:33:02.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NotificacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\NotificacaoRepository.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\NotificacaoRepository.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\NotificacaoRepository.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\NotificacaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:34:55.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MetaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\MetaRepository.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\MetaRepository.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\MetaRepository.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\MetaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:34:42.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Aparelho.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\Aparelho.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\Aparelho.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\Aparelho.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Models\\Aparelho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:57:03.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AparelhoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\AparelhoRepository.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\AparelhoRepository.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\Repositories\\AparelhoRepository.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\AparelhoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:33:58.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Recomendacao.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\Recomendacao.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\Recomendacao.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\Recomendacao.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Models\\Recomendacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:56:40.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\appsettings.json",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\appsettings.json",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\appsettings.json",
+              "RelativeToolTip": "Proj_ProspEco\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T20:34:31.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MLModelTrainer.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\ML\\MLModelTrainer.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\ML\\MLModelTrainer.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Persistencia\\ML\\MLModelTrainer.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\ML\\MLModelTrainer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:47:38.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "dados_modelo.csv",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Data\\dados_modelo.csv",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Data\\dados_modelo.csv",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Data\\dados_modelo.csv",
+              "RelativeToolTip": "Proj_ProspEco\\Data\\dados_modelo.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-11-21T21:00:11.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\Usuario.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:51:45.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FuncionarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\FuncionarioModel.cs",
+              "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\FuncionarioModel.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\FuncionarioModel.cs",
+              "RelativeToolTip": "Proj_ProspEco\\Models\\FuncionarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:48:10.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\MeuProjetoML.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "MeuProjetoML.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Proj_ProspEco\\MeuProjetoML.Tests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\MeuProjetoML.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "MeuProjetoML.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Proj_ProspEco\\MeuProjetoML.Tests\\UnitTest1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T19:55:15.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 41,
               "Title": "DadosUsuarioPrevisao.cs",
               "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\MeuProjetoML.Tests\\Data\\DadosUsuarioPrevisao.cs",
-              "RelativeDocumentMoniker": "MeuProjetoML.Tests\\Data\\DadosUsuarioPrevisao.cs",
+              "RelativeDocumentMoniker": "..\\Proj_ProspEco\\MeuProjetoML.Tests\\Data\\DadosUsuarioPrevisao.cs",
               "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\MeuProjetoML.Tests\\Data\\DadosUsuarioPrevisao.cs",
-              "RelativeToolTip": "MeuProjetoML.Tests\\Data\\DadosUsuarioPrevisao.cs",
+              "RelativeToolTip": "..\\Proj_ProspEco\\MeuProjetoML.Tests\\Data\\DadosUsuarioPrevisao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T19:36:34.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 42,
               "Title": "DadosUsuario.cs",
               "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\MeuProjetoML.Tests\\Data\\DadosUsuario.cs",
-              "RelativeDocumentMoniker": "MeuProjetoML.Tests\\Data\\DadosUsuario.cs",
+              "RelativeDocumentMoniker": "..\\Proj_ProspEco\\MeuProjetoML.Tests\\Data\\DadosUsuario.cs",
               "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\MeuProjetoML.Tests\\Data\\DadosUsuario.cs",
-              "RelativeToolTip": "MeuProjetoML.Tests\\Data\\DadosUsuario.cs",
+              "RelativeToolTip": "..\\Proj_ProspEco\\MeuProjetoML.Tests\\Data\\DadosUsuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T19:32:27.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:12:06.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ServiceBase.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\ServiceBase.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\ServiceBase.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\ServiceBase.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\ServiceBase.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:08:31.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 43,
               "Title": "UsuarioDTO.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\UsuarioDTO.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\DTOs\\UsuarioDTO.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\UsuarioDTO.cs",
               "RelativeToolTip": "Proj_ProspEco\\Models\\DTOs\\UsuarioDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAA+wAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -407,11 +806,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 44,
               "Title": "AparelhoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\AparelhoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\AparelhoDTO.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\DTOs\\AparelhoDTO.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\AparelhoDTO.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\AparelhoDTO.cs",
               "RelativeToolTip": "Proj_ProspEco\\Models\\DTOs\\AparelhoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,11 +818,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 45,
               "Title": "ProspEcoDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Data\\ProspEcoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Data\\ProspEcoDbContext.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Data\\ProspEcoDbContext.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Data\\ProspEcoDbContext.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Data\\ProspEcoDbContext.cs",
               "RelativeToolTip": "Proj_ProspEco\\Data\\ProspEcoDbContext.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAA5wBwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -431,59 +830,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Program.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Program.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Program.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwDQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:38:03.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\appsettings.json",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\appsettings.json",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\appsettings.json",
-              "RelativeToolTip": "Proj_ProspEco\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-20T20:34:31.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BandeiraTarifariaService.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\BandeiraTarifariaService.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\BandeiraTarifariaService.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\BandeiraTarifariaService.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\BandeiraTarifariaService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADgvxkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:03:16.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\IService.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\IService.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\IService.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\IService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:05:30.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 46,
               "Title": "BandeiraTarifaria.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\BandeiraTarifaria.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\BandeiraTarifaria.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\BandeiraTarifaria.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\BandeiraTarifaria.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\BandeiraTarifaria.cs",
               "RelativeToolTip": "Proj_ProspEco\\Models\\BandeiraTarifaria.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAowBcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -491,35 +842,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ConsquistaService.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\ConsquistaService.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\ConsquistaService.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\ConsquistaService.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\ConsquistaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:00:21.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RecomendacaoService.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\RecomendacaoService.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\RecomendacaoService.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\RecomendacaoService.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\RecomendacaoService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA3wB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:04:13.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 47,
               "Title": "RegistroConsumo.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\RegistroConsumo.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\RegistroConsumo.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\RegistroConsumo.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\RegistroConsumo.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\RegistroConsumo.cs",
               "RelativeToolTip": "Proj_ProspEco\\Models\\RegistroConsumo.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -527,11 +854,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 48,
               "Title": "Notificacao.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\Notificacao.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\Notificacao.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\Notificacao.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\Notificacao.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\Notificacao.cs",
               "RelativeToolTip": "Proj_ProspEco\\Models\\Notificacao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -539,11 +866,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 49,
               "Title": "Meta.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\Meta.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\Meta.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\Meta.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\Meta.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\Meta.cs",
               "RelativeToolTip": "Proj_ProspEco\\Models\\Meta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -551,23 +878,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Aparelho.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\Aparelho.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\Aparelho.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\Aparelho.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Models\\Aparelho.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T18:57:03.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 50,
               "Title": "Conquista.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\Conquista.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\Conquista.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\Conquista.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\Conquista.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\Conquista.cs",
               "RelativeToolTip": "Proj_ProspEco\\Models\\Conquista.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -575,155 +890,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Recomendacao.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\Recomendacao.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\Recomendacao.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\Recomendacao.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Models\\Recomendacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T18:56:40.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "RegistroConsumoService.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\RegistroConsumoService.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\RegistroConsumoService.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\RegistroConsumoService.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\RegistroConsumoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:03:47.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "NotificacaoService.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\NotificacaoService.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Services\\NotificacaoService.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Services\\NotificacaoService.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Services\\NotificacaoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:02:42.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ConquistaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\ConquistaRepository.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\ConquistaRepository.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\ConquistaRepository.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\ConquistaRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:33:40.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "AparelhoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\AparelhoRepository.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\AparelhoRepository.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\AparelhoRepository.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\AparelhoRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:33:58.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "MetaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\MetaRepository.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\MetaRepository.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\MetaRepository.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\MetaRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:34:42.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "NotificacaoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\NotificacaoRepository.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\NotificacaoRepository.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\NotificacaoRepository.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\NotificacaoRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:34:55.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "RegistroConsumoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\RegistroConsumoRepository.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\RegistroConsumoRepository.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\RegistroConsumoRepository.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\RegistroConsumoRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:35:40.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:03:01.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "RecomendacaoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\RecomendacaoRepository.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\RecomendacaoRepository.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\RecomendacaoRepository.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\RecomendacaoRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA5wBUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:33:02.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:02:43.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "Proj_ProspEco\\Persistencia\\Repositories\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Persistencia\\Repositories\\RepositoryBase.cs",
-              "RelativeToolTip": "Proj_ProspEco\\Persistencia\\Repositories\\RepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:42:47.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 51,
               "Title": "RegistroConsumoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\RegistroConsumoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\RegistroConsumoDTO.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\DTOs\\RegistroConsumoDTO.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\RegistroConsumoDTO.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\RegistroConsumoDTO.cs",
               "RelativeToolTip": "Proj_ProspEco\\Models\\DTOs\\RegistroConsumoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -731,11 +902,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 52,
               "Title": "BandeiraTarifariaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\BandeiraTarifariaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\BandeiraTarifariaDTO.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\DTOs\\BandeiraTarifariaDTO.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\BandeiraTarifariaDTO.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\BandeiraTarifariaDTO.cs",
               "RelativeToolTip": "Proj_ProspEco\\Models\\DTOs\\BandeiraTarifariaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -743,11 +914,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 53,
               "Title": "ConquistaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\ConquistaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\ConquistaDTO.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\DTOs\\ConquistaDTO.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\ConquistaDTO.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\ConquistaDTO.cs",
               "RelativeToolTip": "Proj_ProspEco\\Models\\DTOs\\ConquistaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -755,11 +926,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 54,
               "Title": "NotificacaoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\NotificacaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\NotificacaoDTO.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\DTOs\\NotificacaoDTO.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\NotificacaoDTO.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\NotificacaoDTO.cs",
               "RelativeToolTip": "Proj_ProspEco\\Models\\DTOs\\NotificacaoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -767,11 +938,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 55,
               "Title": "MetaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\MetaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\MetaDTO.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\DTOs\\MetaDTO.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\MetaDTO.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\MetaDTO.cs",
               "RelativeToolTip": "Proj_ProspEco\\Models\\DTOs\\MetaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -779,11 +950,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 56,
               "Title": "RecomendacaoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\RecomendacaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\RecomendacaoDTO.cs",
               "RelativeDocumentMoniker": "Proj_ProspEco\\Models\\DTOs\\RecomendacaoDTO.cs",
-              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\Proj_ProspEco\\Proj_ProspEco\\Models\\DTOs\\RecomendacaoDTO.cs",
+              "ToolTip": "C:\\Users\\B2XGa\\source\\repos\\ProspEco-.NET\\Proj_ProspEco\\Models\\DTOs\\RecomendacaoDTO.cs",
               "RelativeToolTip": "Proj_ProspEco\\Models\\DTOs\\RecomendacaoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAA+wAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

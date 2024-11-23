@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Downloads\\Proj_ProspEco\\Proj_ProspEco\\Proj_ProspEco.csproj": {}
+    "C:\\Users\\B2XGa\\Source\\Repos\\ProspEco-.NET\\Proj_ProspEco\\Proj_ProspEco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Downloads\\Proj_ProspEco\\Proj_ProspEco\\Proj_ProspEco.csproj": {
+    "C:\\Users\\B2XGa\\Source\\Repos\\ProspEco-.NET\\Proj_ProspEco\\Proj_ProspEco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Downloads\\Proj_ProspEco\\Proj_ProspEco\\Proj_ProspEco.csproj",
+        "projectUniqueName": "C:\\Users\\B2XGa\\Source\\Repos\\ProspEco-.NET\\Proj_ProspEco\\Proj_ProspEco.csproj",
         "projectName": "Proj_ProspEco",
-        "projectPath": "C:\\Users\\HP\\Downloads\\Proj_ProspEco\\Proj_ProspEco\\Proj_ProspEco.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Downloads\\Proj_ProspEco\\Proj_ProspEco\\obj\\",
+        "projectPath": "C:\\Users\\B2XGa\\Source\\Repos\\ProspEco-.NET\\Proj_ProspEco\\Proj_ProspEco.csproj",
+        "packagesPath": "C:\\Users\\B2XGa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\B2XGa\\Source\\Repos\\ProspEco-.NET\\Proj_ProspEco\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\B2XGa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -36,8 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -63,6 +70,10 @@
             "Microsoft.ML.DataView": {
               "target": "Package",
               "version": "[4.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             },
             "Moq": {
               "target": "Package",
@@ -112,7 +123,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

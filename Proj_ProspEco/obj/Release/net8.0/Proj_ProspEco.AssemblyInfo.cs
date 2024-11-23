@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proj_ProspEco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcdddbaf57d99c1b5a4b578891616f7a629c5625")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proj_ProspEco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proj_ProspEco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
